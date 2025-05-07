@@ -1,6 +1,12 @@
 # SPAM-or-HAM-Classification
 
 ## 📬 Ham or Spam - SMS Classification using Machine Learning
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![Scikit-learn](https://img.shields.io/badge/Powered%20by-scikit--learn-blue)
+![Natural Language Processing](https://img.shields.io/badge/NLP-Text%20Classification-yellowgreen)
+![TF-IDF](https://img.shields.io/badge/Vectorizer-TF--IDF-orange)
+![Dataset](https://img.shields.io/badge/Dataset-SMS%20Spam%20Collection-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
 
 This project focuses on building a **Spam Detection Model** that classifies SMS messages as either **Ham (legitimate)** or **Spam** using natural language processing (NLP) techniques and machine learning models. The goal is to automate the detection of unsolicited messages and reduce digital clutter for users.
 
